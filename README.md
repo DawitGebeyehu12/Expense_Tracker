@@ -1,4 +1,4 @@
-                                                                                   Expense Tracker App
+  Expense Tracker App
 
 This project is a React.js based Expense Tracker that helps users manage their personal finances by tracking their income and expenses. Users can add new transactions, view a summary of their balance, income, and expenses, and delete transactions.
 
