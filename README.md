@@ -5,10 +5,14 @@ This project is a React.js based Expense Tracker that helps users manage their p
 Features
 
 . Track Transactions: Add income and expense transactions with amounts.
+
 . Balance Overview: View your current balance, total income, and total expenses.
+
 . Delete Transactions: Remove any transaction from the list.
+
 . Real-time Calculation: Instantly updates the balance, income, and expenses upon transaction 
    updates.
+   
 .  Responsive Design: Clean and responsive interface that works on various screen sizes.
 
 Installation
