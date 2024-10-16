@@ -20,15 +20,12 @@ Installation
 
        git clone https://github.com/yourusername/expense-tracker.git
    
-2. Navigate to the project directory:
 
-       cd expense-tracker
-
-3. Install dependencies:
+2. Install dependencies:
 
        npm install
    
-5. Run the application:
+3. Run the application:
 
        npm start
 
