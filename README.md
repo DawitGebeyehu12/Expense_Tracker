@@ -18,7 +18,7 @@ Features
 Installation
 1. Clone the repository:
 
-       git clone https://github.com/yourusername/expense-tracker.git
+       git clone https://github.com/DawitGebeyehu12/expense-tracker.git
    
 
 2. Install dependencies:
